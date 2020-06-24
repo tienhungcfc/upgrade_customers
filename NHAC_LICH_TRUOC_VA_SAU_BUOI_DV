@@ -3,12 +3,22 @@ https://cfcwebs.visualstudio.com/CSER/_versionControl?path=%24%2FCSER%2FBuilds%2
 - DataAccess
 - HistoryJsonBLL
 - SideMenu.ascx
+- OrderServiceNotiCalendarBLL
+- OrderBLL
+- NotiConfigBLL
+- NotiAuto.cs
 - ia/Noti22
 - Noti2/NotiCalendar.ascx
 - Noti2/NotiCalendar.css
+- Noti2/Meta.js
 - OrderServiceResult.ascx
 - OrderServiceResult.js
 - adminz/.../noti/auto.html
 - adminz/.../noti/auto.js
+- api/.../OrderServiceNoti.cs
+- api/.../OrderServiceNotiResult.cs
+- api/.../Daily20.cs
+- Services/Preview.cs
+
 
 
